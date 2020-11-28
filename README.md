@@ -1,4 +1,6 @@
-# ant_species
+# # Especies de hormigas (infografía)
+Una breve síntesis de las hormigas descritas a través del tiempo
+
 
 ### Inphographic
 Data from and from AntWiki.org and AntCat.org to september 2020.
