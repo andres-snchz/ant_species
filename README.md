@@ -1,8 +1,7 @@
 # # Especies de hormigas (infografía)
-Una breve síntesis de las hormigas descritas a través del tiempo
+> Una breve síntesis de las hormigas descritas a través del tiempo
 
+La inforgrafía fue elaborada a partir de los datos de [AntWiki.org](https://www.antwiki.org/wiki/Species_Accounts) y de [AntCat.org](https://antcat.org/) a septiembre de 2020. Los datos fueron inpecionados, procesados y graficados en 'R' (paquetes: 'dplyr', 'ggplot2', 'png', 'grid', 'cowplot'). La infografía final fue ensamblada en Illustrator CC.
 
-### Inphographic
-Data from and from AntWiki.org and AntCat.org to september 2020.
-Plots made in R (packages: dplyr, ggplot2, png, grid, cowplot) and final inphographic assembled in Illustrator CC.
-Andrés F. Sánchez–Restrepo          twitter:@andres_schz
+**Andrés F. Sánchez–Restrepo**
+twitter:@andres_schz
