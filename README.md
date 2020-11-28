@@ -8,6 +8,3 @@ The infographic was made using data from [AntWiki.org](https://www.antwiki.org/w
 
 **Andrés F. Sánchez–Restrepo**  
 twitter[@andres_schz](https://twitter.com/andres_schz)
-
-![ant species](https://github.com/andres-snchz/ant_species/blob/main/ant_species_en.jpg)
-
