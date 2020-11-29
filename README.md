@@ -2,7 +2,7 @@
 > Una breve síntesis de las hormigas descritas a través del tiempo
  
 Esta infografía fue elaborada a partir de los datos y conteos de especies publicados en [AntWiki.org](https://www.antwiki.org/wiki/Species_Accounts) y [AntCat.org](https://antcat.org/) a septiembre de 2020. Los datos fueron inspeccionados, procesados y graficados en `R` (paquetes: `dplyr`, `ggplot2`, `png`, `grid`, `cowplot`). La infografía final fue ensamblada en Illustrator CC.  
-Note: esta versión aun necesita algunos ajustes,  cualquier sugerencia para mejorarla por favor escríbame.  
+Nota: esta versión aun necesita algunos ajustes,  cualquier sugerencia para mejorarla por favor escríbame.    
 
 >A brief synthesis of ants described through time
 
