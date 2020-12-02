@@ -1,4 +1,4 @@
-# # Especies de hormigas (infografía)
+# # Especies de hormigas
 > Una breve síntesis de las hormigas descritas a través del tiempo
  
 Esta infografía fue elaborada a partir de los datos y conteos de especies publicados en [AntWiki.org](https://www.antwiki.org/wiki/Species_Accounts) y [AntCat.org](https://antcat.org/) a septiembre de 2020. Los datos fueron inspeccionados, procesados y graficados en `R` (paquetes: `dplyr`, `ggplot2`, `png`, `grid`, `cowplot`). La infografía final fue ensamblada en Illustrator CC.  
@@ -15,4 +15,11 @@ Note 2: The graph with number of species described by author still needs to be a
  
 Version 0.1 
 **Andrés F. Sánchez–Restrepo**  
-twitter[@andres_schz](https://twitter.com/andres_schz)
+twitter [@andres_schz](https://twitter.com/andres_schz) 
+
+#### # Ant Species
+![Ant Species English](https://github.com/andres-snchz/ant_species/blob/main/ant_species_en.png "Ant Species English") 
+
+#### # Especies de Hormigas
+![Ant Species Spanish](https://github.com/andres-snchz/ant_species/blob/main/ant_species_es.png "Ant Species Spanish")
+
