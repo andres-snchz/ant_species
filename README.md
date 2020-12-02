@@ -5,7 +5,10 @@ Esta infografía fue elaborada a partir de los datos y conteos de especies publi
  
 Nota 1: esta versión aun necesita algunos ajustes,  cualquier sugerencia para mejorarla por favor escríbame.    
 Nota 2: El gráfico de número de especies descritas por autor aún debe ajustarse, ya que solo consiera autorias indivuduales y no por múltiples autores. 
- 
+  
+  
+<br/>
+
 >A brief synthesis of ants described through time
 
 This infographic was made using data and species counts published in [AntWiki.org](https://www.antwiki.org/wiki/Species_Accounts) and [AntCat.org](https://antcat.org/) to September 2020. The data was inspected, processed and plotted in `R` (packages: `dplyr`, `ggplot2`, `png`, `grid`, `cowplot`). The final infographic was assembled in Illustrator CC.  
@@ -13,6 +16,9 @@ This infographic was made using data and species counts published in [AntWiki.or
 Note 1: this version still needs some adjustments, any suggestion to improve it please write me.  
 Note 2: The graph with number of species described by author still needs to be adjusted, since only considers to individual authorship and not by multiple authors. 
  
+
+<br/>
+
 Version 0.1 
 **Andrés F. Sánchez–Restrepo**  
 twitter [@andres_schz](https://twitter.com/andres_schz) 
